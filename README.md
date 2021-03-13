@@ -1,3 +1,3 @@
 ### MERN backend
-Personal boilerplate.\
+Personal boilerplate w auth.\
 Node, nodemon, express, mongoose, winston, cors
