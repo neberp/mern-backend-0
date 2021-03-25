@@ -27,7 +27,7 @@ app.use("/api/signup", signUp);
 app.use("/api/signin", signIn);
 
 app.get("/", (req, res) => {
-  res.send("api hello baby up and running:DDD");
+  res.send("api hello baby up and running");
 });
 
 const uri = process.env.ATLAS_URI;
